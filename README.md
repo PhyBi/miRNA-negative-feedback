@@ -1,8 +1,15 @@
 # Effects-of-microRNA-mediated-negative-feedback-on-gene-expression-noise
-This repository contains a mathematica code(mathematica_code.nb), regarding the solutions of Eq. 3 & 4 in the manuscript, "The cost of bacterial predation via Type VI secretion system leads to predator extinction under environmental stress",Subhadeep Gupta*, Soumyadipta Ray*, Afruja Khan*, Arkaprabha China*,Dipjyoti Das*++, and Amirul Islam Mallick*++, iScience, 2021 .
+This repository contains a fortran 90 code( ), regarding the Gillespie simulation (Stochastic simulation) for time evolution of 'miRNA mediated negative feedback loop' in the manuscript, "Effects of microRNA mediated negative feedback on gene expression noise", Raunak Adhikary1, Arnab Roy1, Mohit Kumar Jolly2*, Dipjyoti Das1*
 
+1 Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata,Mohanpur, Nadia, West Bengal, 741246, India.
+2 Centre for BioSystems Science and Engineering, Indian Institute of Science, Bengaluru 560012, India.
+
+*Corresponding Authors.
+
+Email: dipjyoti.das@iiserkol.ac.in, mkjolly@iisc.ac.in
+
+Subhadeep Gupta*, Soumyadipta Ray*, Afruja Khan*, Arkaprabha China*,Dipjyoti Das*++, and Amirul Islam Mallick*++, iScience, 2021 .
 *Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata,Mohanpur, Nadia, West Bengal, 741246, India.
-
 ++ Corresponding Authors.
 
 Email: raysoumyadipta@gmail.com, dipjyoti.das@iiserkol.ac.in
