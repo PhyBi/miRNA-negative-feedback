@@ -1,4 +1,4 @@
-This repository contains a fortran 90 code (github_miRNA_model_gillespie_single_history.f90), regarding the Gillespie simulation (Stochastic simulation) for time evolution of 'miRNA-mediated negative feedback loop' in the manuscript, "Effects of microRNA mediated negative feedback on gene expression noise", Raunak Adhikary1, Arnab Roy1, Mohit Kumar Jolly2*, Dipjyoti Das1*
+This repository contains a fortran 90 code (github_miRNA_model_gillespie_single_history.f90), regarding the Gillespie simulation (Stochastic simulation) for time evolution of 'miRNA-mediated negative feedback loop' in the manuscript, "Effects of microRNA-mediated negative feedback on gene expression noise", Raunak Adhikary1, Arnab Roy1, Mohit Kumar Jolly2*, Dipjyoti Das1*
 
 1 Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata,Mohanpur, Nadia, West Bengal, 741246, India.
 2 Centre for BioSystems Science and Engineering, Indian Institute of Science, Bengaluru 560012, India.
