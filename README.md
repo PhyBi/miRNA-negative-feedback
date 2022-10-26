@@ -3,9 +3,9 @@ This repository contains a fortran 90 code (github_miRNA_model_gillespie_single_
 1 Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata,Mohanpur, Nadia, West Bengal, 741246, India.
 2 Centre for BioSystems Science and Engineering, Indian Institute of Science, Bengaluru 560012, India.
 
-*Corresponding Authors.
+Email: ra19rs093@iiserkol.ac.in
 
-Email: dipjyoti.das@iiserkol.ac.in, mkjolly@iisc.ac.in
+*Corresponding Authors: dipjyoti.das@iiserkol.ac.in, mkjolly@iisc.ac.in
 
 Instruction to get the code: Click on the 'Code' menu (green colour button) and from the drop down menu, choose the option 'Download Zip'. Then extract it in any directory of your desktop.
 
