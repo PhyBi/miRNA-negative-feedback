@@ -6,7 +6,7 @@ This repository contains a fortran 90 code (miRNA_gillespie_single_history.f90),
 
 Email: ra19rs093@iiserkol.ac.in
 
-*Corresponding Authors: dipjyoti.das@iiserkol.ac.in, mkjolly@iisc.ac.in
+*Corresponding Authors: dipjyoti.das@iiserkol.ac.in
 
 Instruction to get the code: Click on the 'Code' menu (green colour button) and from the drop down menu, choose the option 'Download Zip'. Then extract it in any directory of your desktop.
 
